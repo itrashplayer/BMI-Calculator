@@ -1,0 +1,13 @@
+ion-content {
+  background: linear-gradent (to bottom, #D3CCE3, #E9E4F0);
+  background: #D3CCE3;  
+background: -webkit-linear-gradient(to right, #E9E4F0, #D3CCE3);  
+background: linear-gradient(to right, #E9E4F0, #D3CCE3);
+}
+h2 {
+  color: #9e34eb;
+}
+p {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-align: justify;
+}
